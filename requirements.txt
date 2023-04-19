@@ -1,0 +1,5 @@
+django-rest-framework==0.1.0
+environs==9.3.5
+flake8==6.0.0
+pip-chill==1.0.1
+psycopg2==2.9.6
